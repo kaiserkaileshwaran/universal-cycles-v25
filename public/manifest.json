@@ -1,0 +1,23 @@
+{
+  "name": "Universal Cycles",
+  "short_name": "UniCycles",
+  "description": "Premium Bicycles & Toys Store",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F7F5",
+  "theme_color": "#1A3620",
+  "orientation": "portrait",
+  "categories": ["shopping", "lifestyle"],
+  "icons": [
+    { "src": "/logo.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/favicon.ico", "sizes": "48x48", "type": "image/x-icon" }
+  ],
+  "screenshots": [
+    {
+      "src": "/background-landscape.png",
+      "type": "image/png",
+      "sizes": "1280x720",
+      "form_factor": "wide"
+    }
+  ]
+}

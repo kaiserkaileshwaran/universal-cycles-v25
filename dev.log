@@ -1,0 +1,19 @@
+
+> universal-cycles@0.1.0 dev
+> next dev
+
+▲ Next.js 16.3.0 (Turbopack)
+- Local:         http://localhost:3005
+- Network:       http://192.168.68.104:3005
+✓ Ready in 300ms
+✓ Running next.config.ts took 22ms
+⨯ Another next dev server is already running.
+
+- Local:        http://localhost:3000
+- PID:          23874
+- Dir:          /Users/kailesh/Downloads/cycle
+- Log:          .next/dev/logs/next-development.log
+
+You can access the existing server at http://localhost:3000,
+or run kill 23874 to stop it and start a new one.
+[?25h

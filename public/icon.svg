@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Universal Cycles icon">
+  <rect x="4" y="4" width="56" height="56" rx="16" fill="#0f5d3b"/>
+  <circle cx="24" cy="40" r="8" fill="none" stroke="#ffffff" stroke-width="3"/>
+  <circle cx="40" cy="40" r="8" fill="none" stroke="#ffffff" stroke-width="3"/>
+  <path d="M24 40H18l-5-12h12" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M40 40h6l5-12h-12" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M18 28h12" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+  <path d="M24 28l4-6" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+  <path d="M36 28l-4-6" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+</svg>
